@@ -58,17 +58,18 @@
 
 ### Education
 
-> Bachelor Of Science In Chemistry - Dropout 2013
-> Veer Narmad South Gujarat University Surat,Gujarat
+Bachelor Of Science In Chemistry - Dropout 2013
+Veer Narmad South Gujarat University Surat,Gujarat
 
 ### Hobbies and Interests
 
-> - Mostly view stories in movie and web series show their VFX and Sound Effects. Try to find some game concepts from there.
-> - Sometimes play High Quality games which are not built in unity.
-> - Sometimes I listen to books from youtube. 😃
-> - I love traveling so I show places in google maps. 🌎
+- Mostly view stories in movie and web series show their VFX and Sound Effects. Try to find some game concepts from there.
+- Sometimes play High Quality games which are not built in unity.
+- Sometimes I listen to books from youtube. 😃
+- I love traveling so I show places in google maps. 🌎
 
 ### TOP GAMES
+<p align="center">
 
 [![Octa2248](https://play-lh.googleusercontent.com/pDwe3Zp42UsgE7VNYCwsn61EbDI9ziuxzR_Y7DtrIwszxMe6GSBStAPWtSgtT5dxPQE=w64-h64-rw)](https://play.google.com/store/apps/details?id=bear.games.octa2248)
 
@@ -79,7 +80,8 @@
   [![Wood Harvest : Cut and Collect](https://play-lh.googleusercontent.com/MbAh94YdgnCxwlHI_ovyGaNP5fT6t06XaZl_fpEAnBoamrrL4IQDn-djK4tYLydbcg=w64-rw)](https://play.google.com/store/apps/details?id=com.craftbuilder.woodharvest) 
 
  [![Dungeon Knight 3d Idle](https://play-lh.googleusercontent.com/4dRXhBW-YsRRvCQ7DbyJSFWYwqbtyuaNgNFZ_olwQx4wLKdvU2csJC_o_2DiBjNViPE=w64-rw)](https://play.google.com/store/apps/details?id=idle.knight.inc) 
-
+ 
+</p>
 <!--
 **paragkikani/paragkikani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
