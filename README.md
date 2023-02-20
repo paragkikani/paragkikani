@@ -1,10 +1,10 @@
-# Parag Kikani "Unity Game Developer"
+# Parag Kikani <sub><sup style="font-size:5px;"> ==> Unity Game Developer</sup></sub> <p align="right"> </p>
 
 ## Contact
 
 Email : Paragkikani@gmail.com 
-Mobile : 9924262262
-Country : India
+<br>Mobile : 9924262262
+<br>Country : India
 
 ## Professional Summary
 
