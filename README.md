@@ -1,6 +1,9 @@
-# Parag Kikani         Unity Game Developer
-C - 602 Saral Heights,Pasodra Patiya, Surat. 395008
-Email : Paragkikani@gmail.com Mobile : +91 9924262262
+# Parag Kikani     
+
+## Contact
+
+Email : Paragkikani@gmail.com 
+
 
 ## Professional Summary
 
@@ -63,6 +66,18 @@ Veer Narmad South Gujarat University Surat,Gujarat
 - Sometimes play High Quality games which are not built in unity.
 - Sometimes I listen to books from youtube. 😃
 - I love traveling so I show places in google maps. 🌎
+
+## TOP GAMES
+
+[![Octa2248](https://play-lh.googleusercontent.com/pDwe3Zp42UsgE7VNYCwsn61EbDI9ziuxzR_Y7DtrIwszxMe6GSBStAPWtSgtT5dxPQE=w64-h64-rw)](https://play.google.com/store/apps/details?id=bear.games.octa2248)
+
+ [![Brain Physics Truck Puzzle](https://play-lh.googleusercontent.com/KjkPFCwmV9V302-DpjK4ZTkje6FDN6Beeo4ZmB7oJd9PBQnOQ4kmWeKreCpVS5z-i9s=w64-h64-rw)](https://play.google.com/store/apps/details?id=com.truck.tracking.physics.brain) 
+
+  [![Pizza House - Cooking Game](https://play-lh.googleusercontent.com/PN82q1qUXgXDSedk29-WrDfRWJoH9Ho6nVD5xWtdBMD8XMd1rWrS27cBGjydPEkImjM=s64-rw)](https://play.google.com/store/apps/details?id=com.pizza.house) 
+
+  [![Wood Harvest : Cut and Collect](https://play-lh.googleusercontent.com/MbAh94YdgnCxwlHI_ovyGaNP5fT6t06XaZl_fpEAnBoamrrL4IQDn-djK4tYLydbcg=w64-rw)](https://play.google.com/store/apps/details?id=com.craftbuilder.woodharvest) 
+
+ [![Dungeon Knight 3d Idle](https://play-lh.googleusercontent.com/4dRXhBW-YsRRvCQ7DbyJSFWYwqbtyuaNgNFZ_olwQx4wLKdvU2csJC_o_2DiBjNViPE=w64-rw)](https://play.google.com/store/apps/details?id=idle.knight.inc) 
 
 <!--
 **paragkikani/paragkikani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
