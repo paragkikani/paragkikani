@@ -6,6 +6,21 @@
 > <br>Mobile : 9924262262
 > <br>Country : India
 
+# My Portfolio
+
+## Summary
+
+<div id="summary"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
+<script>
+  var typed = new Typed('#summary', {
+    strings: [' I am an innovative game programmer with over 6+ years of experience in the gaming industry. I build all types of games using the Unity editor. It's fun for me to play games and find bugs that need to be fixed. Game development is something I enjoy. As a member of a team and as an individual, I worked together. I began my programming career as an Android developer. A 1.5-year period later, I realized I would be able to become a good game developer. In order to learn from Unity games, I show Udemy and YouTube courses. By the end of the third month, I had built my first Unity game. After that, I joined Dignizant Technology as a Unity Developer. After 3 year i changed jobs to BVM Infotech Learn working in a team. After 2 Year i found a client for Hyper Casual games. Last year I worked as a freelancer till now.'],
+    typeSpeed: 60,
+    loop: false
+  });
+</script>
+
 ### Professional Summary
 
 > I am an innovative game programmer with over 6+ years of experience in the gaming industry. I build all types of games using the Unity editor. It's fun for me to play games and find bugs that need to be fixed. Game development is something I enjoy. As a member of a team and as an individual, I worked together. I began my programming career as an Android developer. A 1.5-year period later, I realized I would be able to become a good game developer. In order to learn from Unity games, I show Udemy and YouTube courses. By the end of the third month, I had built my first Unity game. After that, I joined Dignizant Technology as a Unity Developer. After 3 year i changed jobs to BVM Infotech Learn working in a team. After 2 Year i found a client for Hyper Casual games. Last year I worked as a freelancer till now.
@@ -74,6 +89,7 @@ Veer Narmad South Gujarat University Surat,Gujarat
 
  
 </p>
+
 <!--
 **paragkikani/paragkikani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -89,17 +105,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# My Portfolio
 
-## Summary
-
-<div id="summary"></div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
-<script>
-  var typed = new Typed('#summary', {
-    strings: [' I am an innovative game programmer with over 6+ years of experience in the gaming industry. I build all types of games using the Unity editor. It's fun for me to play games and find bugs that need to be fixed. Game development is something I enjoy. As a member of a team and as an individual, I worked together. I began my programming career as an Android developer. A 1.5-year period later, I realized I would be able to become a good game developer. In order to learn from Unity games, I show Udemy and YouTube courses. By the end of the third month, I had built my first Unity game. After that, I joined Dignizant Technology as a Unity Developer. After 3 year i changed jobs to BVM Infotech Learn working in a team. After 2 Year i found a client for Hyper Casual games. Last year I worked as a freelancer till now.'],
-    typeSpeed: 60,
-    loop: false
-  });
-</script>
