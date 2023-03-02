@@ -69,17 +69,11 @@ Veer Narmad South Gujarat University Surat,Gujarat
 - I love traveling so I show places in google maps. 🌎
 
 ### TOP GAMES
-<p align="center">
 
-[![Octa2248](https://play-lh.googleusercontent.com/pDwe3Zp42UsgE7VNYCwsn61EbDI9ziuxzR_Y7DtrIwszxMe6GSBStAPWtSgtT5dxPQE=w64-h64-rw)](https://play.google.com/store/apps/details?id=bear.games.octa2248)
+| Octa2248 | Brain Physics Truck Puzzle | Pizza House - Cooking Game | Wood Harvest : Cut and Collect | Dungeon Knight 3d Idle |
+|:-:|:-:|:-:|:-:|:-:|
+| [![Octa2248](https://play-lh.googleusercontent.com/pDwe3Zp42UsgE7VNYCwsn61EbDI9ziuxzR_Y7DtrIwszxMe6GSBStAPWtSgtT5dxPQE=w64-h64-rw)](https://play.google.com/store/apps/details?id=bear.games.octa2248) | [![Brain Physics Truck Puzzle](https://play-lh.googleusercontent.com/KjkPFCwmV9V302-DpjK4ZTkje6FDN6Beeo4ZmB7oJd9PBQnOQ4kmWeKreCpVS5z-i9s=w64-h64-rw)](https://play.google.com/store/apps/details?id=com.truck.tracking.physics.brain) | [![Pizza House - Cooking Game](https://play-lh.googleusercontent.com/PN82q1qUXgXDSedk29-WrDfRWJoH9Ho6nVD5xWtdBMD8XMd1rWrS27cBGjydPEkImjM=s64-rw)](https://play.google.com/store/apps/details?id=com.pizza.house) | [![Wood Harvest : Cut and Collect](https://play-lh.googleusercontent.com/MbAh94YdgnCxwlHI_ovyGaNP5fT6t06XaZl_fpEAnBoamrrL4IQDn-djK4tYLydbcg=w64-rw)](https://play.google.com/store/apps/details?id=com.craftbuilder.woodharvest) | [![Dungeon Knight 3d Idle](https://play-lh.googleusercontent.com/4dRXhBW-YsRRvCQ7DbyJSFWYwqbtyuaNgNFZ_olwQx4wLKdvU2csJC_o_2DiBjNViPE=w64-rw)](https://play.google.com/store/apps/details?id=idle.knight.inc) |
 
- [![Brain Physics Truck Puzzle](https://play-lh.googleusercontent.com/KjkPFCwmV9V302-DpjK4ZTkje6FDN6Beeo4ZmB7oJd9PBQnOQ4kmWeKreCpVS5z-i9s=w64-h64-rw)](https://play.google.com/store/apps/details?id=com.truck.tracking.physics.brain) 
-
-  [![Pizza House - Cooking Game](https://play-lh.googleusercontent.com/PN82q1qUXgXDSedk29-WrDfRWJoH9Ho6nVD5xWtdBMD8XMd1rWrS27cBGjydPEkImjM=s64-rw)](https://play.google.com/store/apps/details?id=com.pizza.house) 
-
-  [![Wood Harvest : Cut and Collect](https://play-lh.googleusercontent.com/MbAh94YdgnCxwlHI_ovyGaNP5fT6t06XaZl_fpEAnBoamrrL4IQDn-djK4tYLydbcg=w64-rw)](https://play.google.com/store/apps/details?id=com.craftbuilder.woodharvest) 
-
- [![Dungeon Knight 3d Idle](https://play-lh.googleusercontent.com/4dRXhBW-YsRRvCQ7DbyJSFWYwqbtyuaNgNFZ_olwQx4wLKdvU2csJC_o_2DiBjNViPE=w64-rw)](https://play.google.com/store/apps/details?id=idle.knight.inc) 
  
 </p>
 <!--
