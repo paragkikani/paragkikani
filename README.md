@@ -6,6 +6,7 @@
 > Email : Paragkikani@gmail.com 
 > <br>Mobile : 9924262262
 > <br>Country : India
+> <br>[Drop WhatsApp MSG!](https://wa.me/9924262262?text=)
 
 ### Professional Summary
 
