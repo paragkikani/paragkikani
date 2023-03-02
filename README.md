@@ -1,7 +1,6 @@
 #  PARAG KIKANI
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=36F74D&multiline=true&width=435&lines=UNITY+GAME+DEVELOPER" alt="Typing SVG" /></a>
-
 ### Contact
 
 > Email : Paragkikani@gmail.com 
