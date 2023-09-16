@@ -1,4 +1,4 @@
-<h1 align="center" href="https://paragkikani.github.io/portfolio/"> PARAG KIKANI </h1>  <h4 align="right">UNITY GAME  DEVELOPER</h4>
+<a href="https://paragkikani.github.io/portfolio/"><h1 align="center" > PARAG KIKANI </h1> </a> <h4 align="right">UNITY GAME  DEVELOPER</h4>
 
 <h3 align="center"> About Me</h3>
 
