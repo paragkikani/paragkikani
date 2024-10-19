@@ -2,13 +2,12 @@
 
 <h3 align="center"> About Me</h3>
 
-> I am an innovative game programmer with over 7+ years of experience in the
-gaming industry. I specialize in building various types of games using the Unity
-editor. Enjoying playing games and fixing bugs, game development is not just a job
-but a passion for me. I started as an Android developer, later transitioning to become
-a skilled game developer through Udemy and YouTube courses. I began my career at
-Dignizant Technology, later moved to BVM Infotech, and have been freelancing for
-the past year.
+> 
+I am an experienced and innovative game programmer with over 7 years of expertise in the gaming industry. Specializing in developing a wide range of games using Unity, I have a passion for both playing games and refining them, making game development more than just a profession—it's my true passion.
+
+Throughout my career, I have built numerous games for various clients, focusing primarily on hyper-casual and idle game genres. I have extensive experience integrating monetization strategies across multiple platforms, proficiently incorporating ads from any network to maximize revenue. In addition to that, I have successfully implemented in-app purchases (IAPs) and set up advanced analytics to track and measure in-game events, ensuring optimal performance and player engagement.
+
+With a strong dedication to detail and quality, I take pride in delivering high-performing, engaging, and fun games. Whether it’s fixing bugs, optimizing game flow, or adding new features, I approach each project with enthusiasm and a commitment to creating outstanding experiences for players.
 ----
 ### Contact Details
 
