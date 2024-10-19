@@ -8,6 +8,7 @@ I am an experienced and innovative game programmer with over 7 years of expertis
 Throughout my career, I have built numerous games for various clients, focusing primarily on hyper-casual and idle game genres. I have extensive experience integrating monetization strategies across multiple platforms, proficiently incorporating ads from any network to maximize revenue. In addition to that, I have successfully implemented in-app purchases (IAPs) and set up advanced analytics to track and measure in-game events, ensuring optimal performance and player engagement.
 
 With a strong dedication to detail and quality, I take pride in delivering high-performing, engaging, and fun games. Whether it’s fixing bugs, optimizing game flow, or adding new features, I approach each project with enthusiasm and a commitment to creating outstanding experiences for players.
+
 ----
 ### Contact Details
 
